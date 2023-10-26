@@ -1,6 +1,6 @@
 # IoC_Dependency_Injection_Spring_Boot
 
-## Programa Java com Inversão de Controle e Injeção de Dependências com framework Spring Boot
+## Programa Java com IoC e Injeção de Dependências com framework Spring Boot
 
 ### Visão Geral
 
